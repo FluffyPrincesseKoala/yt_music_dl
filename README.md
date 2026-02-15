@@ -76,17 +76,3 @@ Files will be saved as:
 - On first run, may need to allow through Windows Defender
 - For large lists, consider adding delays between downloads
 ```
-
-### Key Points Included:
-1. Clear usage instructions for Windows users
-2. Emphasis on the yt-dlp.exe requirement
-3. Simple input file format example
-4. Argument documentation in table format
-5. Expected output structure
-6. Basic troubleshooting notes
-
-Would you like me to add any additional sections like:
-- Error handling details?
-- Batch file wrapper example?
-- Scheduled task configuration?
-- Alternative audio format options?
